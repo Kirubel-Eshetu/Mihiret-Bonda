@@ -1,0 +1,29 @@
+footer {
+  color: white;
+  background-color: #046381;
+  padding: 25px 0;
+  text-align: center;
+  font-size: 1.5rem;
+  animation: backgroundPulse 5s infinite alternate ease-in-out;
+}
+
+@media (max-width: 600px) {
+  footer {
+    padding: 15px 0;
+    font-size: 1.2rem;
+  }
+}
+
+@keyframes backgroundPulse {
+  0% {
+    background-color: #000000;
+  }
+
+  50% {
+    background-color: #034150;
+  }
+
+  100% {
+    background-color: #046381;
+  }
+}

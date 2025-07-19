@@ -1,0 +1,31 @@
+#contact {
+    margin: 20px 0px;
+}
+
+#contact h3 {
+    font-size: 1.5rem;
+}
+
+#contact a {
+    color: #046381;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#contact a:hover {
+    text-decoration: underline;
+}
+
+#contact h4 {
+    font-size: 1.25rem;
+}
+
+@media (max-width: 600px) {
+#contact h3 {
+    font-size: 1.1rem;
+}
+
+#contact h4 {
+    font-size: 1.0rem;
+}
+}
