@@ -7,6 +7,8 @@
 - <a href="https://mihiret-bonda.vercel.app/" style="text-decoration: none">Here</a> is Phase 1.
 
 - Down here you may find the landing page of the website :)
+
+  
   <img src = "https://github.com/Kirubel-Eshetu/Image_Repo/blob/main/Mihiret_Bonda.png" alt="Mihiret Bonda Landing Page" />
 
 ## Phase 2
